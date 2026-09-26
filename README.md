@@ -13,7 +13,23 @@ The program will ask for three inputs for three questions: <br>
 3. Has a hazard happened that affected the flow of learning? <br>
 
 ## Sample Input/Output 
+Input:
+suspensionAnnouncement = False
+incomingHazard = True
+hazardInProgress = True
 
+Output:
+It is almost certain that it will be suspended.
+
+
+Another Example
+Input:
+suspensionAnnouncement = False
+incomingHazard = False
+hazardInProgress = False
+
+Output:
+It is unlikely to be suspended.
 
 ## Author & Section 
 Name: Conde, Jedidiah Emmanuel O. <br>
