@@ -16,5 +16,5 @@ The program will ask for three inputs for three questions: <break>
 
 
 ## Author & Section 
-Name: Conde, Jedidiah Emmanuel O. <break>
-Section: 8 - Rosal <break>
+Name: Conde, Jedidiah Emmanuel O. <br>
+Section: 8 - Rosal 
