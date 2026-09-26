@@ -6,3 +6,6 @@ Project S.U.S.P.E.N.D.S is an all-in-one application that keeps scholars upto da
 ## How to Run
 The program will ask for three inputs for three questions: <break> 
 1. Has an advisory been posted about a current class suspension? <break>
+2. Is there currently a hazard happening? <break>
+3. Has a hazard happened that affected the flow of learning? <break>
+
