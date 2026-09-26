@@ -12,3 +12,9 @@ The program will ask for three inputs for three questions: <break>
 2. Is there currently a hazard happening? <break>
 3. Has a hazard happened that affected the flow of learning? <break>
 
+## Sample Input/Output 
+
+
+## Author & Section 
+Name: Conde, Jedidiah Emmanuel O. <break>
+Section: 8 - Rosal 
